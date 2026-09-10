@@ -1,0 +1,13 @@
+
+RECOMMENDATION FOR STAKEHOLDERS
+--------------------------------
+The redesigned checkout increased conversion from 10.8% to 12.9%
+(a +19.9% relative lift). This result is statistically significant (p=0.0000),
+and the sample size exceeded the 7334-per-group minimum needed to reliably detect
+an effect of this size, so we have adequate confidence in this result.
+
+The treatment group happened to have a higher mobile traffic share than control; we checked
+this by re-running the comparison separately for mobile and desktop users, and the lift held
+in both groups — so the result is not simply an artifact of that imbalance.
+
+Recommendation: ship the redesigned checkout to 100% of traffic.
